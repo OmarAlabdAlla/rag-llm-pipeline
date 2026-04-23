@@ -1,0 +1,3002 @@
+[
+  {
+    "query": "What is ACE475?",
+    "ground_truth": [
+      "ACE475"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about computer vision",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about signal processing",
+    "ground_truth": [
+      "RRY057",
+      "SSY205",
+      "DAT116",
+      "SSY061",
+      "MVE290",
+      "SSY135",
+      "VTA151",
+      "ESS013",
+      "VTA073",
+      "VTA132",
+      "MMS196",
+      "DAT535",
+      "SSY130",
+      "LET271"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about signal processing",
+    "ground_truth": [
+      "RRY057",
+      "SSY205",
+      "DAT116",
+      "SSY135",
+      "VTA151",
+      "VTA073",
+      "VTA132",
+      "MMS196",
+      "DAT535",
+      "SSY130"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about deep learning",
+    "ground_truth": [
+      "TRA415",
+      "DAT441",
+      "TRA385",
+      "TIF360",
+      "IMS065",
+      "SSY316",
+      "IMS135"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about security",
+    "ground_truth": [
+      "TDA602",
+      "EDA264",
+      "SJM097",
+      "RRY071",
+      "EDA491",
+      "TDA352",
+      "TRA430"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about artificial intelligence",
+    "ground_truth": [
+      "MMS131",
+      "TRA375",
+      "TRA385",
+      "MVE420",
+      "SSY236",
+      "EEN095",
+      "DAT550",
+      "TRA320",
+      "TRA300"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for LEU340?",
+    "ground_truth": [
+      "LEU076",
+      "LET086"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about control systems",
+    "ground_truth": [
+      "EEN090",
+      "LEU744",
+      "ESS217",
+      "MMS250"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about databases",
+    "ground_truth": [
+      "KBT315",
+      "DAT280",
+      "DAT475"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Describe ACE475",
+    "ground_truth": [
+      "ACE475"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about deep learning",
+    "ground_truth": [
+      "TRA415",
+      "DAT441",
+      "TRA385",
+      "TIF360",
+      "IMS065",
+      "SSY316",
+      "IMS135"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om hållbarhet?",
+    "ground_truth": [
+      "SEE050",
+      "TEK940",
+      "ACE590",
+      "ENM036",
+      "ACE246",
+      "SEE040",
+      "KBT140"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "I want to learn about security",
+    "ground_truth": [
+      "TRA415",
+      "SJO890",
+      "SJM097",
+      "RRY071",
+      "EDA491",
+      "SJO114",
+      "DAT430",
+      "TDA352",
+      "TDA602",
+      "TRA430",
+      "SJO710",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om robotik",
+    "ground_truth": [
+      "TRA455"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "First-cycle courses about networks",
+    "ground_truth": [
+      "DAT430",
+      "ESS217"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about deep learning",
+    "ground_truth": [
+      "DAT441",
+      "TRA385",
+      "TIF360",
+      "IMS065",
+      "IMS135",
+      "SSY316"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om säkerhet",
+    "ground_truth": [
+      "TRA415",
+      "MMS055",
+      "TME192",
+      "SJO547",
+      "TRA435",
+      "LMT991",
+      "SJM097",
+      "SJM055",
+      "BOM380",
+      "EDA491",
+      "SJO114",
+      "TME202",
+      "MMS040",
+      "TDA602",
+      "SJO838",
+      "SJO710",
+      "EDA264",
+      "TRA395"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Describe SJM136",
+    "ground_truth": [
+      "SJM136"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for SJM050",
+    "ground_truth": [
+      "SJM010",
+      "SJM035"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for TIF290?",
+    "ground_truth": [
+      "FUF040"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before TIF290?",
+    "ground_truth": [
+      "FUF040"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about networks",
+    "ground_truth": [
+      "FFR135",
+      "KKR063",
+      "FFR120",
+      "EEN115",
+      "DAT147",
+      "DAT280",
+      "VBF021",
+      "SSY145",
+      "ACE086",
+      "EDA491",
+      "DAT094",
+      "TIF345",
+      "TDA297",
+      "SSY316",
+      "SSY340",
+      "TDA596",
+      "KVM013",
+      "TIF360",
+      "EDA264",
+      "DAT575",
+      "TEK970",
+      "EDA387",
+      "IMS065"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "15.0 credit courses about software engineering",
+    "ground_truth": [
+      "DAT306",
+      "DAT640"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about artificial intelligence",
+    "ground_truth": [
+      "TRA385",
+      "MVE420",
+      "DAT550",
+      "TRA320",
+      "MMS131",
+      "TRA300",
+      "EEN095",
+      "SSY236"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for ACE285?",
+    "ground_truth": [
+      "ENM045",
+      "VIN032",
+      "VBF021"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om algoritmer",
+    "ground_truth": [
+      "TIN093",
+      "TDA251",
+      "DAT495",
+      "TDA417",
+      "DAT525",
+      "DAT038",
+      "TDA233"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Describe LEU471",
+    "ground_truth": [
+      "LEU471"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Describe TEK380",
+    "ground_truth": [
+      "TEK380"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for LEU340",
+    "ground_truth": [
+      "LEU076",
+      "LET086"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om kryptografi",
+    "ground_truth": [
+      "TDA352"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Tell me about ACE095",
+    "ground_truth": [
+      "ACE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about algorithms",
+    "ground_truth": [
+      "DAT480",
+      "EEN025",
+      "TDA507",
+      "DAT060",
+      "EDA423",
+      "TDA362",
+      "FFR105",
+      "TDA452",
+      "TME136",
+      "SSY196",
+      "MVE510",
+      "TIN093",
+      "TDA251",
+      "DAT495",
+      "SSY230",
+      "DAT205",
+      "DAT280",
+      "TIF345",
+      "SEE125",
+      "TDA594",
+      "BBT045",
+      "TDA417",
+      "DAT525",
+      "DAT076",
+      "DAT151",
+      "EDA387",
+      "DAT575",
+      "MCC185",
+      "DAT038",
+      "EEN175",
+      "DAT341",
+      "TDA342",
+      "TDA233",
+      "EEN180",
+      "TIF360",
+      "IMS065",
+      "SSY316",
+      "SSY125",
+      "ENM066",
+      "TRA200",
+      "TDA297",
+      "TEK615",
+      "DAT635",
+      "TRA270",
+      "TRA395"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about control systems",
+    "ground_truth": [
+      "EEN050",
+      "MMS196"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for EDA284?",
+    "ground_truth": [
+      "TDA383",
+      "DAT105"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about databases",
+    "ground_truth": [
+      "DAT475",
+      "KBT315",
+      "EEN065",
+      "EEN060",
+      "TDA357",
+      "DAT280",
+      "DAT335",
+      "DAT076",
+      "ACE250",
+      "EEN171"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Tell me about ARK530",
+    "ground_truth": [
+      "ARK530"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about machine learning",
+    "ground_truth": [
+      "RRY057",
+      "TDA233",
+      "DAT516",
+      "DAT565",
+      "EEN100",
+      "KBT315",
+      "IMS135",
+      "DAT635",
+      "DAT341",
+      "DAT550",
+      "ENM097",
+      "DAT465",
+      "DAT625",
+      "DAT441",
+      "DAT480",
+      "TIF345",
+      "MTF271",
+      "SSY210",
+      "TRA460",
+      "TRA440",
+      "SSY316",
+      "SSY340",
+      "DAT450",
+      "DAT410",
+      "MMS285",
+      "TRA385",
+      "TIF360",
+      "EEN185",
+      "TIF285",
+      "TRA300",
+      "TRA445"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about natural language processing",
+    "ground_truth": [
+      "DAT450"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach security?",
+    "ground_truth": [
+      "TRA415",
+      "SJO890",
+      "SJM097",
+      "RRY071",
+      "EDA491",
+      "SJO114",
+      "DAT430",
+      "TDA352",
+      "TDA602",
+      "TRA430",
+      "SJO710",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Give me information about KFK053",
+    "ground_truth": [
+      "KFK053"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before LEU340?",
+    "ground_truth": [
+      "LEU076",
+      "LET086"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about signal processing",
+    "ground_truth": [
+      "RRY057",
+      "SSY205",
+      "DAT116",
+      "SSY061",
+      "MVE290",
+      "SSY135",
+      "VTA151",
+      "ESS013",
+      "VTA073",
+      "VTA132",
+      "MMS196",
+      "DAT535",
+      "SSY130",
+      "LET271"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for TIF290",
+    "ground_truth": [
+      "FUF040"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om kryptografi",
+    "ground_truth": [
+      "TDA352"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "First-cycle courses about signal processing",
+    "ground_truth": [
+      "SSY061",
+      "MVE290",
+      "MVE030",
+      "ESS013",
+      "ESS217",
+      "LET271"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What is ARK530?",
+    "ground_truth": [
+      "ARK530"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What is MVE095?",
+    "ground_truth": [
+      "MVE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about security",
+    "ground_truth": [
+      "TRA415",
+      "SJO890",
+      "SJM097",
+      "RRY071",
+      "EDA491",
+      "SJO114",
+      "DAT430",
+      "TDA352",
+      "TDA602",
+      "TRA430",
+      "SJO710",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about control systems",
+    "ground_truth": [
+      "EEN090",
+      "LEU744",
+      "MMS196",
+      "MMS250",
+      "EEN050"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for SJM050?",
+    "ground_truth": [
+      "SJM010",
+      "SJM035"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om datorseende",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Vilka kurser handlar om programvaruteknik?",
+    "ground_truth": [
+      "DAT246",
+      "DAT520",
+      "DAT550",
+      "DAT640"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Tell me about ACE475",
+    "ground_truth": [
+      "ACE475"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about optimization",
+    "ground_truth": [
+      "IMS085",
+      "MMS131"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about sustainability",
+    "ground_truth": [
+      "KBT271",
+      "IMS085",
+      "MTT126",
+      "TEK761",
+      "ENM161",
+      "TEK940",
+      "PPU030",
+      "SJO571",
+      "ATH100",
+      "IMS050",
+      "ACE246",
+      "BOM210",
+      "ACE605",
+      "LMU622",
+      "MMS125",
+      "MMS270",
+      "MMS275"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about sustainability",
+    "ground_truth": [
+      "SEE050",
+      "ENM036",
+      "BOM170",
+      "CIU180",
+      "IMS010",
+      "ACE115",
+      "ACE040",
+      "MTT108",
+      "ACE230",
+      "ACE146",
+      "ENM097",
+      "ACE510",
+      "TEK320",
+      "PPU161",
+      "DAT520",
+      "TRA295",
+      "ENM016",
+      "BBT051",
+      "SEE040",
+      "TRA440",
+      "ACE590",
+      "TRA290",
+      "KBT140",
+      "ACE440",
+      "ACE450",
+      "TRA245",
+      "MMK221",
+      "ACE500",
+      "ACE470"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om maskininlärning",
+    "ground_truth": [
+      "DAT465",
+      "SSY340",
+      "SSY230",
+      "TIF345",
+      "DAT441",
+      "TRA385",
+      "EEN175",
+      "DAT341",
+      "TDA233",
+      "TIF385",
+      "DAT450",
+      "EEN100",
+      "TIF360",
+      "SSY316",
+      "IMS135",
+      "DAT625",
+      "DAT635"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Vilka kurser handlar om optimering?",
+    "ground_truth": [
+      "EEN025",
+      "FFR105",
+      "ACE405",
+      "DAT570",
+      "TMA522",
+      "TDA206",
+      "TMA947",
+      "MVE166",
+      "PPU191"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "What is ACE095?",
+    "ground_truth": [
+      "ACE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Describe ARK530",
+    "ground_truth": [
+      "ARK530"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach deep learning?",
+    "ground_truth": [
+      "TRA415",
+      "DAT441",
+      "TRA385",
+      "TIF360",
+      "IMS065",
+      "SSY316",
+      "IMS135"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about software engineering",
+    "ground_truth": [
+      "TEK368",
+      "DAT640",
+      "DAT475",
+      "DAT246",
+      "DAT520",
+      "DAT306",
+      "DAT550",
+      "DAT231"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about computer vision",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about robotics",
+    "ground_truth": [
+      "TRA455",
+      "TRA385",
+      "MPR213",
+      "TIF160",
+      "SSY236",
+      "TRA440"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach computer vision?",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about optimization",
+    "ground_truth": [
+      "TRA455",
+      "DAT570",
+      "EEN025",
+      "FFR105",
+      "TMA522",
+      "MHA043",
+      "TRA440",
+      "SSY165",
+      "MMS131",
+      "TMA947",
+      "TDA206",
+      "MVE166",
+      "PPU161",
+      "PPU191",
+      "IMS135",
+      "EEK221"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach artificial intelligence?",
+    "ground_truth": [
+      "MMS131",
+      "TRA375",
+      "TRA385",
+      "MVE420",
+      "SSY236",
+      "EEN095",
+      "DAT550",
+      "TRA320",
+      "TRA300"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about cryptography",
+    "ground_truth": [
+      "TDA352",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about algorithms",
+    "ground_truth": [
+      "TDA417",
+      "DAT525",
+      "DAT076",
+      "DAT495",
+      "EEN175",
+      "EEN180",
+      "TDA452",
+      "DAT038",
+      "TDA594",
+      "SEE125",
+      "TME136"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about machine learning",
+    "ground_truth": [
+      "RRY057",
+      "TDA233",
+      "KBT315",
+      "EEN100",
+      "IMS135",
+      "DAT635",
+      "DAT341",
+      "DAT550",
+      "ENM097",
+      "DAT465",
+      "DAT625",
+      "DAT441",
+      "TRA375",
+      "DAT480",
+      "TIF345",
+      "MTF271",
+      "SSY210",
+      "TRA460",
+      "TRA440",
+      "SSY316",
+      "SSY340",
+      "DAT450",
+      "DAT410",
+      "TRA385",
+      "TIF360",
+      "TIF285",
+      "TRA300",
+      "TRA445"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What is LNB662?",
+    "ground_truth": [
+      "LNB662"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about machine learning",
+    "ground_truth": [
+      "TRA440",
+      "DAT465",
+      "DAT410",
+      "DAT480",
+      "SSY340",
+      "TRA460",
+      "KBT315",
+      "TIF285",
+      "EEN185",
+      "TIF345",
+      "SSY210",
+      "RRY057",
+      "TRA445",
+      "DAT565",
+      "ENM097",
+      "DAT441",
+      "MMS285",
+      "TRA375",
+      "DAT516",
+      "TRA385",
+      "EEN175",
+      "DAT341",
+      "TDA233",
+      "TIF385",
+      "DAT450",
+      "MTF271",
+      "EEN100",
+      "TIF360",
+      "SSY316",
+      "DAT550",
+      "IMS135",
+      "DAT625",
+      "DAT635",
+      "TRA300"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for KOK081",
+    "ground_truth": [
+      "KBT260"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om nätverk?",
+    "ground_truth": [
+      "EEN115",
+      "DAT147",
+      "EDA387",
+      "EDA491",
+      "FFR135",
+      "TIF360"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Jag vill lära mig om robotik",
+    "ground_truth": [
+      "TRA455"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Give me information about SJM136",
+    "ground_truth": [
+      "SJM136"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om algoritmer?",
+    "ground_truth": [
+      "TIN093",
+      "TDA251",
+      "DAT495",
+      "TDA417",
+      "DAT525",
+      "DAT038",
+      "TDA233"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "15.0 credit courses about deep learning",
+    "ground_truth": [
+      "TRA415"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about deep learning",
+    "ground_truth": [
+      "DAT441",
+      "TRA385",
+      "TIF360",
+      "TRA415",
+      "IMS065",
+      "IMS135",
+      "SSY316"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Give me information about LNB662",
+    "ground_truth": [
+      "LNB662"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before EDA284?",
+    "ground_truth": [
+      "TDA383",
+      "DAT105"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about algorithms",
+    "ground_truth": [
+      "TDA417",
+      "EDA423",
+      "TDA233",
+      "SSY125",
+      "TIN093",
+      "TEK615",
+      "DAT038",
+      "DAT151",
+      "FFR105",
+      "DAT635",
+      "DAT280",
+      "DAT341",
+      "TDA452",
+      "TRA270",
+      "MCC185",
+      "ENM066",
+      "DAT060",
+      "SSY196",
+      "TDA342",
+      "DAT480",
+      "TIF345",
+      "TDA297",
+      "EEN180",
+      "BBT045",
+      "TRA200",
+      "TDA251",
+      "TDA362",
+      "SSY316",
+      "TRA395",
+      "EEN025",
+      "DAT205",
+      "DAT076",
+      "DAT495",
+      "TIF360",
+      "DAT575",
+      "MVE510",
+      "TDA594",
+      "TDA507",
+      "EDA387",
+      "SSY230",
+      "IMS065"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for TEK525",
+    "ground_truth": [
+      "BOM225"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about sustainability",
+    "ground_truth": [
+      "SEE050",
+      "ENM036",
+      "BOM170",
+      "CIU180",
+      "IMS010",
+      "ACE115",
+      "ACE040",
+      "MMS275",
+      "MTT108",
+      "ACE230",
+      "TEK761",
+      "PPU030",
+      "IMS050",
+      "ACE146",
+      "ENM097",
+      "TEK320",
+      "PPU161",
+      "MMS125",
+      "MMS270",
+      "SJO571",
+      "DAT520",
+      "LMU622",
+      "ENM016",
+      "SEE040",
+      "BBT051",
+      "TRA440",
+      "MTT126",
+      "ACE590",
+      "TRA290",
+      "ATH100",
+      "KBT140",
+      "ACE246",
+      "TRA245",
+      "MMK221"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about software engineering",
+    "ground_truth": [
+      "DAT560",
+      "TDA567",
+      "DAT670",
+      "DAT335",
+      "TDA594",
+      "DAT257"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Describe LNB662",
+    "ground_truth": [
+      "LNB662"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach natural language processing?",
+    "ground_truth": [
+      "DAT450"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for ACE146",
+    "ground_truth": [
+      "TEK675",
+      "ACE046",
+      "ACE080",
+      "BOM125"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach algorithms?",
+    "ground_truth": [
+      "DAT480",
+      "EEN025",
+      "TDA507",
+      "DAT060",
+      "EDA423",
+      "TDA362",
+      "FFR105",
+      "TDA452",
+      "TME136",
+      "SSY196",
+      "MVE510",
+      "TIN093",
+      "TDA251",
+      "DAT495",
+      "SSY230",
+      "DAT205",
+      "DAT280",
+      "TIF345",
+      "SEE125",
+      "TDA594",
+      "BBT045",
+      "TDA417",
+      "DAT525",
+      "DAT076",
+      "DAT151",
+      "EDA387",
+      "DAT575",
+      "MCC185",
+      "DAT038",
+      "EEN175",
+      "DAT341",
+      "TDA342",
+      "TDA233",
+      "EEN180",
+      "TIF360",
+      "IMS065",
+      "SSY316",
+      "SSY125",
+      "ENM066",
+      "TRA200",
+      "TDA297",
+      "TEK615",
+      "DAT635",
+      "TRA270",
+      "TRA395"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about machine learning",
+    "ground_truth": [
+      "MMS285",
+      "EEN185",
+      "EEN175",
+      "TIF385",
+      "DAT516",
+      "DAT565"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about sustainability",
+    "ground_truth": [
+      "TRA440",
+      "ENM161",
+      "BOM170",
+      "SEE050",
+      "TEK940",
+      "ACE040",
+      "ACE230",
+      "IMS085",
+      "KBT271",
+      "LMU622",
+      "ACE115",
+      "SJO571",
+      "ACE146",
+      "TEK320",
+      "PPU030",
+      "ENM097",
+      "ACE590",
+      "ENM036",
+      "MTT126",
+      "ACE246",
+      "DAT520",
+      "CIU180",
+      "ACE470",
+      "ATH100",
+      "ACE510",
+      "SEE040",
+      "PPU161",
+      "IMS010",
+      "ACE500",
+      "ACE440",
+      "TRA245",
+      "MMK221",
+      "MMS125",
+      "KBT140",
+      "BOM210",
+      "IMS050",
+      "ENM016",
+      "ACE450",
+      "MMS275",
+      "TRA290",
+      "TRA295",
+      "BBT051",
+      "MTT108",
+      "ACE605",
+      "TEK761",
+      "MMS270"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Describe MVE095",
+    "ground_truth": [
+      "MVE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about machine learning",
+    "ground_truth": [
+      "TRA440",
+      "DAT465",
+      "DAT410",
+      "DAT480",
+      "SSY340",
+      "TRA460",
+      "KBT315",
+      "TIF285",
+      "EEN185",
+      "TIF345",
+      "SSY210",
+      "RRY057",
+      "TRA445",
+      "DAT565",
+      "ENM097",
+      "DAT441",
+      "MMS285",
+      "TRA375",
+      "DAT516",
+      "TRA385",
+      "EEN175",
+      "DAT341",
+      "TDA233",
+      "TIF385",
+      "DAT450",
+      "MTF271",
+      "EEN100",
+      "TIF360",
+      "SSY316",
+      "DAT550",
+      "IMS135",
+      "DAT625",
+      "DAT635",
+      "TRA300"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om databaser",
+    "ground_truth": [
+      "DAT475",
+      "TDA357"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Tell me about LNB662",
+    "ground_truth": [
+      "LNB662"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about security",
+    "ground_truth": [
+      "TDA602",
+      "EDA264",
+      "RRY071",
+      "EDA491",
+      "TDA352",
+      "TRA415",
+      "TRA430"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about databases",
+    "ground_truth": [
+      "ACE250",
+      "DAT076",
+      "TDA357",
+      "DAT335",
+      "EEN171",
+      "EEN060",
+      "EEN065"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Tell me about MVE095",
+    "ground_truth": [
+      "MVE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om säkerhet",
+    "ground_truth": [
+      "TRA415",
+      "MMS055",
+      "TME192",
+      "SJO547",
+      "TRA435",
+      "LMT991",
+      "SJM097",
+      "SJM055",
+      "BOM380",
+      "EDA491",
+      "SJO114",
+      "TME202",
+      "MMS040",
+      "TDA602",
+      "SJO838",
+      "SJO710",
+      "EDA264",
+      "TRA395"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "7.5 credit courses about robotics",
+    "ground_truth": [
+      "TRA455",
+      "TRA385",
+      "MPR213",
+      "TIF160",
+      "SSY236",
+      "TRA440"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about optimization",
+    "ground_truth": [
+      "TRA455",
+      "DAT570",
+      "EEN025",
+      "FFR105",
+      "TMA522",
+      "MHA043",
+      "TRA440",
+      "SSY165",
+      "MMS131",
+      "TMA947",
+      "TDA206",
+      "MVE166",
+      "PPU161",
+      "PPU191",
+      "IMS135",
+      "EEK221"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach sustainability?",
+    "ground_truth": [
+      "TRA440",
+      "ENM161",
+      "BOM170",
+      "SEE050",
+      "TEK940",
+      "ACE040",
+      "ACE230",
+      "IMS085",
+      "KBT271",
+      "LMU622",
+      "ACE115",
+      "SJO571",
+      "ACE146",
+      "TEK320",
+      "PPU030",
+      "ENM097",
+      "ACE590",
+      "ENM036",
+      "MTT126",
+      "ACE246",
+      "DAT520",
+      "CIU180",
+      "ACE470",
+      "ATH100",
+      "ACE510",
+      "SEE040",
+      "PPU161",
+      "IMS010",
+      "ACE500",
+      "ACE440",
+      "TRA245",
+      "MMK221",
+      "MMS125",
+      "KBT140",
+      "BOM210",
+      "IMS050",
+      "ENM016",
+      "ACE450",
+      "MMS275",
+      "TRA290",
+      "TRA295",
+      "BBT051",
+      "MTT108",
+      "ACE605",
+      "TEK761",
+      "MMS270"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for ACE285",
+    "ground_truth": [
+      "ENM045",
+      "VIN032",
+      "VBF021"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for KOK081?",
+    "ground_truth": [
+      "KBT260"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Give me information about MVE095",
+    "ground_truth": [
+      "MVE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What is KFK053?",
+    "ground_truth": [
+      "KFK053"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Give me information about ACE475",
+    "ground_truth": [
+      "ACE475"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Give me information about LEU471",
+    "ground_truth": [
+      "LEU471"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach machine learning?",
+    "ground_truth": [
+      "TRA440",
+      "DAT465",
+      "DAT410",
+      "DAT480",
+      "SSY340",
+      "TRA460",
+      "KBT315",
+      "TIF285",
+      "EEN185",
+      "TIF345",
+      "SSY210",
+      "RRY057",
+      "TRA445",
+      "DAT565",
+      "ENM097",
+      "DAT441",
+      "MMS285",
+      "TRA375",
+      "DAT516",
+      "TRA385",
+      "EEN175",
+      "DAT341",
+      "TDA233",
+      "TIF385",
+      "DAT450",
+      "MTF271",
+      "EEN100",
+      "TIF360",
+      "SSY316",
+      "DAT550",
+      "IMS135",
+      "DAT625",
+      "DAT635",
+      "TRA300"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about machine learning",
+    "ground_truth": [
+      "RRY057",
+      "TDA233",
+      "DAT516",
+      "DAT565",
+      "EEN100",
+      "KBT315",
+      "IMS135",
+      "DAT635",
+      "DAT341",
+      "DAT550",
+      "ENM097",
+      "DAT465",
+      "DAT625",
+      "DAT441",
+      "DAT480",
+      "TIF345",
+      "MTF271",
+      "SSY210",
+      "TRA460",
+      "TRA440",
+      "SSY316",
+      "SSY340",
+      "DAT450",
+      "DAT410",
+      "MMS285",
+      "TRA385",
+      "TIF360",
+      "EEN185",
+      "TIF285",
+      "TRA300",
+      "TRA445"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about cryptography",
+    "ground_truth": [
+      "TDA352",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Describe ACE095",
+    "ground_truth": [
+      "ACE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for EDA284",
+    "ground_truth": [
+      "TDA383",
+      "DAT105"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before KOK081?",
+    "ground_truth": [
+      "KBT260"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about artificial intelligence",
+    "ground_truth": [
+      "TRA375",
+      "TRA385",
+      "DAT550",
+      "TRA320",
+      "TRA300",
+      "SSY236"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for DAT595",
+    "ground_truth": [
+      "TDA289",
+      "CIU175"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om databaser?",
+    "ground_truth": [
+      "DAT475",
+      "TDA357"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "7.5 credit courses about software engineering",
+    "ground_truth": [
+      "DAT560",
+      "TEK368",
+      "DAT475",
+      "DAT246",
+      "DAT520",
+      "DAT550",
+      "TDA567",
+      "DAT231",
+      "DAT670",
+      "DAT335",
+      "TDA594",
+      "DAT257"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om artificiell intelligens",
+    "ground_truth": [
+      "MMS131",
+      "EEN095"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "15.0 credit courses about deep learning",
+    "ground_truth": [
+      "TRA415"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for ACE285",
+    "ground_truth": [
+      "ENM045",
+      "VIN032",
+      "VBF021"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for ACE146?",
+    "ground_truth": [
+      "TEK675",
+      "ACE046",
+      "ACE080",
+      "BOM125"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om artificiell intelligens?",
+    "ground_truth": [
+      "MMS131",
+      "EEN095"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "What courses teach software engineering?",
+    "ground_truth": [
+      "DAT475",
+      "DAT246",
+      "DAT306",
+      "DAT257",
+      "TDA594",
+      "DAT335",
+      "DAT520",
+      "TDA567",
+      "DAT231",
+      "DAT560",
+      "DAT550",
+      "DAT640",
+      "DAT670",
+      "TEK368"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om programvaruteknik",
+    "ground_truth": [
+      "DAT246",
+      "DAT520",
+      "DAT550",
+      "DAT640"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Tell me about SJM136",
+    "ground_truth": [
+      "SJM136"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about natural language processing",
+    "ground_truth": [
+      "DAT450"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for SJM050",
+    "ground_truth": [
+      "SJM010",
+      "SJM035"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Tell me about KFK053",
+    "ground_truth": [
+      "KFK053"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for DAT595",
+    "ground_truth": [
+      "TDA289",
+      "CIU175"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before TEK525?",
+    "ground_truth": [
+      "BOM225"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for KOK081",
+    "ground_truth": [
+      "KBT260"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om datorseende",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "What is SJM136?",
+    "ground_truth": [
+      "SJM136"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Tell me about TEK380",
+    "ground_truth": [
+      "TEK380"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about software engineering",
+    "ground_truth": [
+      "DAT560",
+      "TDA567",
+      "DAT670",
+      "DAT335",
+      "TDA594",
+      "DAT257"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about machine learning",
+    "ground_truth": [
+      "MMS285",
+      "EEN185",
+      "EEN175",
+      "TIF385",
+      "DAT516",
+      "DAT565"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for TEK525",
+    "ground_truth": [
+      "BOM225"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about artificial intelligence",
+    "ground_truth": [
+      "EEN095",
+      "MVE420",
+      "MMS131"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before DAT595?",
+    "ground_truth": [
+      "TDA289",
+      "CIU175"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about artificial intelligence",
+    "ground_truth": [
+      "TRA385",
+      "MVE420",
+      "DAT550",
+      "TRA320",
+      "MMS131",
+      "TRA300",
+      "EEN095",
+      "SSY236"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Describe KFK053",
+    "ground_truth": [
+      "KFK053"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om artificiell intelligens",
+    "ground_truth": [
+      "MMS131",
+      "EEN095"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Hitta kurser om databaser",
+    "ground_truth": [
+      "DAT475",
+      "TDA357"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Second-cycle courses about networks",
+    "ground_truth": [
+      "FFR135",
+      "KKR063",
+      "FFR120",
+      "EEN115",
+      "DAT147",
+      "DAT280",
+      "VBF021",
+      "SSY145",
+      "ACE086",
+      "EDA491",
+      "DAT094",
+      "TIF345",
+      "TDA297",
+      "SSY316",
+      "SSY340",
+      "TDA596",
+      "KVM013",
+      "TIF360",
+      "EDA264",
+      "DAT575",
+      "TEK970",
+      "EDA387",
+      "IMS065"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach databases?",
+    "ground_truth": [
+      "DAT475",
+      "KBT315",
+      "EEN065",
+      "EEN060",
+      "TDA357",
+      "DAT280",
+      "DAT335",
+      "DAT076",
+      "ACE250",
+      "EEN171"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om hållbarhet",
+    "ground_truth": [
+      "SEE050",
+      "TEK940",
+      "ACE590",
+      "ENM036",
+      "ACE246",
+      "SEE040",
+      "KBT140"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "7.5 credit courses about optimization",
+    "ground_truth": [
+      "TRA455",
+      "DAT570",
+      "EEN025",
+      "FFR105",
+      "TMA522",
+      "MHA043",
+      "TRA440",
+      "SSY165",
+      "MMS131",
+      "TMA947",
+      "TDA206",
+      "MVE166",
+      "PPU161",
+      "PPU191",
+      "IMS135",
+      "EEK221"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about cryptography",
+    "ground_truth": [
+      "EDA264",
+      "TDA352"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about artificial intelligence",
+    "ground_truth": [
+      "MMS131",
+      "TRA375",
+      "TRA385",
+      "MVE420",
+      "SSY236",
+      "EEN095",
+      "DAT550",
+      "TRA320",
+      "TRA300"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before ACE146?",
+    "ground_truth": [
+      "TEK675",
+      "ACE046",
+      "ACE080",
+      "BOM125"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about natural language processing",
+    "ground_truth": [
+      "DAT450"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about optimization",
+    "ground_truth": [
+      "TRA455",
+      "DAT570",
+      "EEN025",
+      "FFR105",
+      "TMA522",
+      "MHA043",
+      "TRA440",
+      "SSY165",
+      "MMS131",
+      "TMA947",
+      "TDA206",
+      "MVE166",
+      "PPU161",
+      "PPU191",
+      "IMS135",
+      "EEK221"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about cryptography",
+    "ground_truth": [
+      "EDA264",
+      "TDA352"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om maskininlärning",
+    "ground_truth": [
+      "DAT465",
+      "SSY340",
+      "SSY230",
+      "TIF345",
+      "DAT441",
+      "TRA385",
+      "EEN175",
+      "DAT341",
+      "TDA233",
+      "TIF385",
+      "DAT450",
+      "EEN100",
+      "TIF360",
+      "SSY316",
+      "IMS135",
+      "DAT625",
+      "DAT635"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "First-cycle courses about optimization",
+    "ground_truth": [
+      "IMS085",
+      "MMS131"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for EDA284",
+    "ground_truth": [
+      "TDA383",
+      "DAT105"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Tell me about LEU471",
+    "ground_truth": [
+      "LEU471"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om robotik?",
+    "ground_truth": [
+      "TRA455"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Second-cycle courses about security",
+    "ground_truth": [
+      "TDA602",
+      "EDA264",
+      "RRY071",
+      "EDA491",
+      "TDA352",
+      "TRA415",
+      "TRA430"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Give me information about ACE095",
+    "ground_truth": [
+      "ACE095"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about optimization",
+    "ground_truth": [
+      "IMS085",
+      "MMS131"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om optimering",
+    "ground_truth": [
+      "EEN025",
+      "FFR105",
+      "ACE405",
+      "DAT570",
+      "TMA522",
+      "TDA206",
+      "TMA947",
+      "MVE166",
+      "PPU191"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Hitta kurser om algoritmer",
+    "ground_truth": [
+      "TIN093",
+      "TDA251",
+      "DAT495",
+      "TDA417",
+      "DAT525",
+      "DAT038",
+      "TDA233"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Find courses about software engineering",
+    "ground_truth": [
+      "DAT475",
+      "DAT246",
+      "DAT306",
+      "DAT257",
+      "TDA594",
+      "DAT335",
+      "DAT520",
+      "TDA567",
+      "DAT231",
+      "DAT560",
+      "DAT550",
+      "DAT640",
+      "DAT670",
+      "TEK368"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om kryptografi?",
+    "ground_truth": [
+      "TDA352"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Second-cycle courses about computer vision",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about algorithms",
+    "ground_truth": [
+      "EDA423",
+      "TDA233",
+      "SSY125",
+      "TIN093",
+      "TEK615",
+      "DAT151",
+      "FFR105",
+      "DAT635",
+      "DAT280",
+      "DAT341",
+      "TRA270",
+      "MCC185",
+      "ENM066",
+      "DAT060",
+      "SSY196",
+      "TDA342",
+      "DAT480",
+      "TIF345",
+      "TDA297",
+      "BBT045",
+      "TRA200",
+      "TDA251",
+      "TDA362",
+      "SSY316",
+      "TRA395",
+      "EEN025",
+      "DAT205",
+      "TIF360",
+      "DAT575",
+      "MVE510",
+      "TDA507",
+      "EDA387",
+      "SSY230",
+      "IMS065"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "15.0 credit courses about security",
+    "ground_truth": [
+      "TRA415"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "15.0 credit courses about sustainability",
+    "ground_truth": [
+      "ACE510",
+      "ACE470",
+      "ACE500",
+      "TRA295"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "First-cycle courses about security",
+    "ground_truth": [
+      "DAT430",
+      "SJO710",
+      "SJM097",
+      "SJO114",
+      "SJO890"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "15.0 credit courses about sustainability",
+    "ground_truth": [
+      "ACE510",
+      "ACE470",
+      "ACE500",
+      "TRA295"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om säkerhet?",
+    "ground_truth": [
+      "TRA415",
+      "MMS055",
+      "TME192",
+      "SJO547",
+      "TRA435",
+      "LMT991",
+      "SJM097",
+      "SJM055",
+      "BOM380",
+      "EDA491",
+      "SJO114",
+      "TME202",
+      "MMS040",
+      "TDA602",
+      "SJO838",
+      "SJO710",
+      "EDA264",
+      "TRA395"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Give me information about ARK530",
+    "ground_truth": [
+      "ARK530"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about deep learning",
+    "ground_truth": [
+      "DAT441",
+      "TRA385",
+      "TIF360",
+      "IMS065",
+      "IMS135",
+      "SSY316"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before SJM050?",
+    "ground_truth": [
+      "SJM010",
+      "SJM035"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach networks?",
+    "ground_truth": [
+      "SSY145",
+      "SSY340",
+      "KKR063",
+      "DAT280",
+      "TIF345",
+      "EEN115",
+      "DAT147",
+      "EDA387",
+      "DAT575",
+      "EDA491",
+      "FFR135",
+      "FFR120",
+      "ESS217",
+      "DAT430",
+      "KVM013",
+      "TIF360",
+      "IMS065",
+      "DAT094",
+      "VBF021",
+      "SSY316",
+      "TDA596",
+      "TDA297",
+      "TEK970",
+      "ACE086",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about optimization",
+    "ground_truth": [
+      "TRA455",
+      "DAT570",
+      "EEN025",
+      "ACE405",
+      "FFR105",
+      "TMA522",
+      "MHA043",
+      "TRA440",
+      "SSY165",
+      "TMA947",
+      "TDA206",
+      "MVE166",
+      "PPU161",
+      "PPU191",
+      "IMS135",
+      "EEK221"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses do I need before ACE285?",
+    "ground_truth": [
+      "ENM045",
+      "VIN032",
+      "VBF021"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about natural language processing",
+    "ground_truth": [
+      "DAT450"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about robotics",
+    "ground_truth": [
+      "TRA455",
+      "TRA385",
+      "MPR213",
+      "TIF160",
+      "SSY236",
+      "TRA440"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om hållbarhet",
+    "ground_truth": [
+      "SEE050",
+      "TEK940",
+      "ACE590",
+      "ENM036",
+      "ACE246",
+      "SEE040",
+      "KBT140"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "What are the prerequisites for TEK525?",
+    "ground_truth": [
+      "BOM225"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about databases",
+    "ground_truth": [
+      "DAT475",
+      "KBT315",
+      "EEN065",
+      "EEN060",
+      "TDA357",
+      "DAT280",
+      "DAT335",
+      "DAT076",
+      "ACE250",
+      "EEN171"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Prerequisites for ACE146",
+    "ground_truth": [
+      "TEK675",
+      "ACE046",
+      "ACE080",
+      "BOM125"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about computer vision",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om datorseende?",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "7.5 credit courses about computer vision",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Hitta kurser om nätverk",
+    "ground_truth": [
+      "EEN115",
+      "DAT147",
+      "EDA387",
+      "EDA491",
+      "FFR135",
+      "TIF360"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "Jag vill lära mig om nätverk",
+    "ground_truth": [
+      "EEN115",
+      "DAT147",
+      "EDA387",
+      "EDA491",
+      "FFR135",
+      "TIF360"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "7.5 credit courses about databases",
+    "ground_truth": [
+      "ACE250",
+      "DAT475",
+      "DAT280",
+      "DAT076",
+      "TDA357",
+      "DAT335",
+      "EEN171",
+      "EEN060",
+      "KBT315",
+      "EEN065"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Vilka kurser handlar om maskininlärning?",
+    "ground_truth": [
+      "DAT465",
+      "SSY340",
+      "SSY230",
+      "TIF345",
+      "DAT441",
+      "TRA385",
+      "EEN175",
+      "DAT341",
+      "TDA233",
+      "TIF385",
+      "DAT450",
+      "EEN100",
+      "TIF360",
+      "SSY316",
+      "IMS135",
+      "DAT625",
+      "DAT635"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "I want to learn about software engineering",
+    "ground_truth": [
+      "DAT475",
+      "DAT246",
+      "DAT306",
+      "DAT257",
+      "TDA594",
+      "DAT335",
+      "DAT520",
+      "TDA567",
+      "DAT231",
+      "DAT560",
+      "DAT550",
+      "DAT640",
+      "DAT670",
+      "TEK368"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "7.5 credit courses about artificial intelligence",
+    "ground_truth": [
+      "TRA385",
+      "MVE420",
+      "DAT550",
+      "TRA320",
+      "MMS131",
+      "TRA300",
+      "EEN095",
+      "SSY236"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "What courses teach cryptography?",
+    "ground_truth": [
+      "TDA352",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "What is TEK380?",
+    "ground_truth": [
+      "TEK380"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "What is LEU471?",
+    "ground_truth": [
+      "LEU471"
+    ],
+    "query_type": "specific_lookup",
+    "language": "en"
+  },
+  {
+    "query": "Required courses for LEU340",
+    "ground_truth": [
+      "LEU076",
+      "LET086"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about computer vision",
+    "ground_truth": [
+      "EEN020"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "Second-cycle courses about natural language processing",
+    "ground_truth": [
+      "DAT450"
+    ],
+    "query_type": "level_topic",
+    "language": "en"
+  },
+  {
+    "query": "Jag vill lära mig om programvaruteknik",
+    "ground_truth": [
+      "DAT246",
+      "DAT520",
+      "DAT550",
+      "DAT640"
+    ],
+    "query_type": "swedish_topic_search",
+    "language": "sv"
+  },
+  {
+    "query": "15.0 credit courses about artificial intelligence",
+    "ground_truth": [
+      "TRA375"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "15.0 credit courses about sustainability",
+    "ground_truth": [
+      "ACE510",
+      "ACE470",
+      "ACE500",
+      "TRA295"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "Find courses about networks",
+    "ground_truth": [
+      "SSY145",
+      "SSY340",
+      "KKR063",
+      "DAT280",
+      "TIF345",
+      "EEN115",
+      "DAT147",
+      "EDA387",
+      "DAT575",
+      "EDA491",
+      "FFR135",
+      "FFR120",
+      "ESS217",
+      "DAT430",
+      "KVM013",
+      "TIF360",
+      "IMS065",
+      "DAT094",
+      "VBF021",
+      "SSY316",
+      "TDA596",
+      "TDA297",
+      "TEK970",
+      "ACE086",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "15.0 credit courses about artificial intelligence",
+    "ground_truth": [
+      "TRA375"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about algorithms",
+    "ground_truth": [
+      "DAT480",
+      "EEN025",
+      "TDA507",
+      "DAT060",
+      "EDA423",
+      "TDA362",
+      "FFR105",
+      "TDA452",
+      "TME136",
+      "SSY196",
+      "MVE510",
+      "TIN093",
+      "TDA251",
+      "DAT495",
+      "SSY230",
+      "DAT205",
+      "DAT280",
+      "TIF345",
+      "SEE125",
+      "TDA594",
+      "BBT045",
+      "TDA417",
+      "DAT525",
+      "DAT076",
+      "DAT151",
+      "EDA387",
+      "DAT575",
+      "MCC185",
+      "DAT038",
+      "EEN175",
+      "DAT341",
+      "TDA342",
+      "TDA233",
+      "EEN180",
+      "TIF360",
+      "IMS065",
+      "SSY316",
+      "SSY125",
+      "ENM066",
+      "TRA200",
+      "TDA297",
+      "TEK615",
+      "DAT635",
+      "TRA270",
+      "TRA395"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "I want to learn about networks",
+    "ground_truth": [
+      "SSY145",
+      "SSY340",
+      "KKR063",
+      "DAT280",
+      "TIF345",
+      "EEN115",
+      "DAT147",
+      "EDA387",
+      "DAT575",
+      "EDA491",
+      "FFR135",
+      "FFR120",
+      "ESS217",
+      "DAT430",
+      "KVM013",
+      "TIF360",
+      "IMS065",
+      "DAT094",
+      "VBF021",
+      "SSY316",
+      "TDA596",
+      "TDA297",
+      "TEK970",
+      "ACE086",
+      "EDA264"
+    ],
+    "query_type": "topic_search",
+    "language": "en"
+  },
+  {
+    "query": "15.0 credit courses about machine learning",
+    "ground_truth": [
+      "TRA375"
+    ],
+    "query_type": "credit_topic",
+    "language": "en"
+  },
+  {
+    "query": "What are the prerequisites for DAT595?",
+    "ground_truth": [
+      "TDA289",
+      "CIU175"
+    ],
+    "query_type": "prerequisite_lookup",
+    "language": "en"
+  }
+]
